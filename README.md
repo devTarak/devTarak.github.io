@@ -1,2 +1,2 @@
 # devTarak.github.io
-https://devTarak.github.io/
+https://tdnath.github.io/
